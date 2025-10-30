@@ -2,5 +2,4 @@
 {"dg-publish":true,"permalink":"/garden-home/","tags":["gardenEntry"]}
 ---
 
-## Вот здесь
-Здесь можно оставить любую запись
+![Task Status 2.png](/img/user/Task%20Status%202.png)
